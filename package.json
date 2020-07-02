@@ -1,0 +1,28 @@
+{
+  "name": "react-carousel-demo",
+  "version": "1.0.0",
+  "description": "senior project",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.4",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chelese Jensen",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jensenchelese/React-Carousel-Demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jensenchelese/React-Carousel-Demo/issues"
+  },
+  "homepage": "https://github.com/jensenchelese/React-Carousel-Demo#readme"
+}
